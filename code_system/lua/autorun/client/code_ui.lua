@@ -33,4 +33,3 @@ local function openCodeMenu()
 end
 
 concommand.Add("open_code_menu", openCodeMenu)
-concommand.Add("openmenu", openCodeMenu) -- debugging bind
